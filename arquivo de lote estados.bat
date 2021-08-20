@@ -26,4 +26,9 @@ md "Para"
 md "Rondonia"
 md "Roraima"
 md "Tocantins"
+cd ..
+cd "sul"
+md "Parana"
+md "Santa Catarina"
+md "Rio Grande do Sul"
 
