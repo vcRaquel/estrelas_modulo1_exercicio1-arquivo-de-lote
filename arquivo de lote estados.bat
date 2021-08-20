@@ -17,4 +17,13 @@ md "Pernambuco"
 md "Piaui"
 md "Rio Grande do Norte"
 md "Sergipe"
+cd ..
+cd "norte"
+md "Acre"
+md "Amapa"
+md "Amazonas"
+md "Para"
+md "Rondonia"
+md "Roraima"
+md "Tocantins"
 
